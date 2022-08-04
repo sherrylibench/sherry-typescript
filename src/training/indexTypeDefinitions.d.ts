@@ -3,7 +3,7 @@ declare global{
     function formatDate(date: Date):string
     interface Window{
         /**
-         * use decoration merging to define my owen window variable
+         * use declaration merging to define my owen window variable
          */
          MY_VAR: string
     }

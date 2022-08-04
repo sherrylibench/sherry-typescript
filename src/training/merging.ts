@@ -9,7 +9,7 @@ customer.save();
 
 interface Customer{
     /**
-     * decoration merging 
+     * declaration merging 
      */
     save(): void
 }
